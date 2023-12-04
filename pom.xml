@@ -3,7 +3,8 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>2.9</version>
+    <version>4.51</version>
+    <relativePath/>
   </parent>
 
   <artifactId>aws-cloudwatch-logs-publisher</artifactId>
@@ -22,7 +23,6 @@
   </licenses>
 
   <properties>
-    <java.level>8</java.level>
   </properties>
 
   <scm>
